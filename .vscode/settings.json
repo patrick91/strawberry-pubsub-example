@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "sash.hoverBorder": "#d55599",
+        "statusBar.background": "#c63180",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#d55599",
+        "statusBarItem.remoteBackground": "#c63180",
+        "statusBarItem.remoteForeground": "#e7e7e7"
+    },
+    "peacock.color": "#c63180",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.analysis.typeCheckingMode": "basic"
+}
